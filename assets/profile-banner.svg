@@ -1,54 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
-<title id="title">Chaman Afzaal — AI, Data Engineering and Intelligent Systems</title>
-<desc id="desc">A dark futuristic gradient banner with abstract data streams, network nodes, and the name Chaman Afzaal.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="t d">
+<title id="t">Chaman Afzaal — A Curious Mind in a Vast Universe</title>
+<desc id="d">Animated cosmic banner with a spiral galaxy, planets orbiting a sun, a glowing black hole, twinkling stars and Voyager 1 travelling through interstellar space.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#080d1d"/><stop offset=".52" stop-color="#171a42"/><stop offset="1" stop-color="#092b3b"/>
-  </linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#54d6ff"/><stop offset=".52" stop-color="#8b7cff"/><stop offset="1" stop-color="#53f0c1"/>
-  </linearGradient>
-  <radialGradient id="glow"><stop stop-color="#5a78ff" stop-opacity=".28"/><stop offset="1" stop-color="#5a78ff" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
-    <path d="M42 0H0V42" fill="none" stroke="#9bb8ff" stroke-opacity=".09" stroke-width="1"/>
-  </pattern>
-  <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
-  <filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#030611"/><stop offset=".55" stop-color="#15133b"/><stop offset="1" stop-color="#06243a"/></linearGradient>
+ <radialGradient id="neb"><stop stop-color="#a45bdb" stop-opacity=".55"/><stop offset="1" stop-color="#11132e" stop-opacity="0"/></radialGradient>
+ <radialGradient id="sun"><stop stop-color="#fff3b0"/><stop offset=".55" stop-color="#ffad54"/><stop offset="1" stop-color="#ed5b6b"/></radialGradient>
+ <linearGradient id="disk"><stop stop-color="#4ddcff" stop-opacity="0"/><stop offset=".5" stop-color="#d9a7ff"/><stop offset="1" stop-color="#ffad64" stop-opacity="0"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="16"/></filter>
 </defs>
-<rect width="1600" height="420" rx="28" fill="url(#bg)"/>
-<rect width="1600" height="420" rx="28" fill="url(#grid)"/>
-<ellipse cx="300" cy="80" rx="360" ry="220" fill="url(#glow)" filter="url(#blur)"/>
-<ellipse cx="1370" cy="360" rx="390" ry="260" fill="url(#glow)" filter="url(#blur)"/>
-<g fill="none" stroke="url(#accent)" stroke-opacity=".42" stroke-width="2">
-  <path d="M0 320H180L245 255H390L455 190H560"/>
-  <path d="M1600 100H1450L1380 170H1270L1190 250H1080"/>
-  <path d="M1020 0V62L960 122V175"/>
-  <path d="M550 420V360L610 300H700"/>
-  <path d="M1290 420V360L1220 290H1150"/>
+<rect width="1600" height="520" rx="28" fill="url(#bg)"/>
+<ellipse cx="360" cy="220" rx="460" ry="280" fill="url(#neb)"/>
+<g fill="#fff">
+ <circle cx="80" cy="70" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.8s" repeatCount="indefinite"/></circle>
+ <circle cx="480" cy="90" r="1.8"><animate attributeName="opacity" values="1;.2;1" dur="3.2s" repeatCount="indefinite"/></circle>
+ <circle cx="660" cy="420" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+ <circle cx="1450" cy="90" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="3.4s" repeatCount="indefinite"/></circle>
+ <circle cx="1380" cy="420" r="1.6"><animate attributeName="opacity" values="1;.2;1" dur="2.5s" repeatCount="indefinite"/></circle>
+ <circle cx="930" cy="70" r="1.4"/><circle cx="1040" cy="440" r="1.4"/><circle cx="180" cy="360" r="1.5"/>
 </g>
-<g fill="#67dcff">
-  <circle cx="180" cy="320" r="5"/><circle cx="390" cy="255" r="5"/><circle cx="560" cy="190" r="5"/>
-  <circle cx="1450" cy="100" r="5"/><circle cx="1270" cy="170" r="5"/><circle cx="1080" cy="250" r="5"/>
-  <circle cx="960" cy="122" r="4"/><circle cx="610" cy="300" r="4"/><circle cx="1220" cy="290" r="4"/>
+<!-- spiral galaxy -->
+<g transform="translate(255 210)">
+ <ellipse rx="125" ry="45" fill="none" stroke="#9d8cff" stroke-width="12" opacity=".25" filter="url(#blur)"/>
+ <path d="M-112 0C-70-100 60-78 100-10S30 80-65 40 0-58 70-20" fill="none" stroke="#c7c4ff" stroke-width="3" opacity=".8"/>
+ <path d="M-80-22C-5-90 80-15 35 35S-60 40-35-8 45-38 65 5" fill="none" stroke="#7bdcff" stroke-width="2" opacity=".7"/>
+ <circle r="12" fill="#fff4d4" filter="url(#blur)"/>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="80s" repeatCount="indefinite"/>
 </g>
-<g fill="none" stroke="#8c9bff" stroke-opacity=".28">
-  <circle cx="1330" cy="205" r="105"/><circle cx="1330" cy="205" r="145"/><circle cx="1330" cy="205" r="185"/>
-  <circle cx="250" cy="165" r="85"/><circle cx="250" cy="165" r="125"/>
+<!-- solar system -->
+<g transform="translate(790 295)">
+ <circle r="34" fill="url(#sun)"/><circle r="55" fill="#ffb45e" opacity=".2" filter="url(#blur)"/>
+ <ellipse rx="105" ry="44" fill="none" stroke="#8abaff" stroke-opacity=".5"/>
+ <ellipse rx="165" ry="70" fill="none" stroke="#8abaff" stroke-opacity=".35"/>
+ <ellipse rx="225" ry="95" fill="none" stroke="#8abaff" stroke-opacity=".25"/>
+ <circle cx="105" cy="0" r="9" fill="#5ecbff"/>
+ <circle cx="-165" cy="0" r="13" fill="#d98b69"/>
+ <circle cx="0" cy="-70" r="7" fill="#c6dfff"/>
+ <g><circle cx="225" cy="0" r="16" fill="#a88aff"/><ellipse cx="225" cy="0" rx="29" ry="8" fill="none" stroke="#e0caff" stroke-width="3"/></g>
+ <animateTransform attributeName="transform" type="rotate" from="0 790 295" to="360 790 295" dur="60s" repeatCount="indefinite"/>
 </g>
-<g fill="#d7e7ff" opacity=".75">
-  <circle cx="92" cy="82" r="2"/><circle cx="390" cy="82" r="2"/><circle cx="505" cy="350" r="2"/>
-  <circle cx="1100" cy="70" r="2"/><circle cx="1500" cy="300" r="2"/><circle cx="1440" cy="55" r="2"/>
-  <circle cx="780" cy="70" r="2"/><circle cx="870" cy="355" r="2"/>
+<!-- black hole -->
+<g transform="translate(1190 210)">
+ <ellipse rx="160" ry="52" fill="none" stroke="url(#disk)" stroke-width="24" transform="rotate(-16)" filter="url(#blur)"/>
+ <ellipse rx="150" ry="48" fill="none" stroke="#ffbb7a" stroke-width="4" opacity=".9" transform="rotate(-16)"/>
+ <circle r="62" fill="#010107"/>
+ <ellipse rx="78" ry="78" fill="none" stroke="#9c8bff" stroke-width="4" opacity=".5" filter="url(#blur)"/>
+ <animateTransform attributeName="transform" type="rotate" from="0 1190 210" to="360 1190 210" dur="65s" repeatCount="indefinite"/>
 </g>
-<g text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">
-  <text x="800" y="170" fill="#ffffff" font-size="66" font-weight="700" letter-spacing="7">CHAMAN AFZAAL</text>
-  <rect x="560" y="198" width="480" height="3" rx="2" fill="url(#accent)"/>
-  <text x="800" y="246" fill="#d9e7ff" font-size="24" letter-spacing="4">AI / ML ENGINEERING</text>
-  <text x="800" y="290" fill="#a9bce4" font-size="18" letter-spacing="3">DATA PIPELINES  •  MACHINE LEARNING  •  AGENTIC AI</text>
+<!-- Voyager 1 travelling outward -->
+<path d="M80 445 Q600 410 990 380 T1510 325" fill="none" stroke="#75dcff" stroke-width="2" stroke-dasharray="6 12" opacity=".45"/>
+<g transform="translate(100 440)" stroke="#e5f5ff" stroke-width="3" fill="none">
+ <path d="M0-12V12M-12 0H12M-8-10L8 10M8-10L-8 10"/>
+ <circle r="5" fill="#fff2bf" stroke="none"/>
+ <animateMotion path="M0 0 Q430 -20 1000 -120" dur="25s" repeatCount="indefinite"/>
 </g>
-<g transform="translate(68 350)" opacity=".8">
-  <rect width="210" height="34" rx="17" fill="#ffffff" fill-opacity=".06" stroke="#83aaff" stroke-opacity=".4"/>
-  <circle cx="18" cy="17" r="4" fill="#53f0c1"/>
-  <text x="34" y="22" fill="#cfe5ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1.5">BUILD • LEARN • SHIP</text>
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+ <text x="800" y="92" fill="#fff" font-size="57" font-weight="700" letter-spacing="6">CHAMAN AFZAAL</text>
+ <text x="800" y="137" fill="#b7d8ff" font-size="21" letter-spacing="5">A CURIOUS MIND IN A VAST UNIVERSE</text>
+ <text x="800" y="490" fill="#b8c9ec" font-size="16" letter-spacing="3">STARS • PLANETS • GALAXIES • BLACK HOLES • DEEP SPACE</text>
+ <text x="1385" y="390" fill="#9de8ff" font-size="14" letter-spacing="2">VOYAGER 1</text>
+ <text x="1385" y="412" fill="#9aaed1" font-size="11" letter-spacing="1">INTERSTELLAR SPACE</text>
 </g>
 </svg>
