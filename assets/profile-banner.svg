@@ -1,64 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
-<title id="title">Chaman Afzaal — A Curious Mind in a Vast Universe</title>
-<desc id="desc">A cinematic deep-space scene with a luminous nebula, distant spiral galaxy, black hole and accretion disk, a ringed planet, and a dense field of stars.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
+<title id="title">Chaman Afzaal — Exploring the Cosmos</title>
+<desc id="desc">A cinematic space vista showing Earth, the Sun, planets, the Milky Way, a distant black hole, a nebula and a tiny Voyager spacecraft travelling into interstellar space.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#02040d"/><stop offset=".48" stop-color="#080d25"/><stop offset="1" stop-color="#071b2b"/></linearGradient>
- <radialGradient id="nebula"><stop stop-color="#a64dca" stop-opacity=".48"/><stop offset=".45" stop-color="#3b4cbb" stop-opacity=".24"/><stop offset="1" stop-color="#081126" stop-opacity="0"/></radialGradient>
- <radialGradient id="planet"><stop stop-color="#e8d7bd"/><stop offset=".52" stop-color="#8e829a"/><stop offset=".82" stop-color="#3c4568"/><stop offset="1" stop-color="#101a35"/></radialGradient>
- <linearGradient id="rings"><stop stop-color="#8fc9e8" stop-opacity="0"/><stop offset=".3" stop-color="#b8c9e8" stop-opacity=".9"/><stop offset=".55" stop-color="#e5c6a2" stop-opacity=".8"/><stop offset="1" stop-color="#8fc9e8" stop-opacity="0"/></linearGradient>
- <linearGradient id="disk"><stop stop-color="#6bdcff" stop-opacity="0"/><stop offset=".32" stop-color="#65bfff"/><stop offset=".52" stop-color="#e8b4ff"/><stop offset=".72" stop-color="#ffb26f"/><stop offset="1" stop-color="#6bdcff" stop-opacity="0"/></linearGradient>
- <filter id="bloom"><feGaussianBlur stdDeviation="20"/></filter>
+ <linearGradient id="void" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#02030a"/><stop offset=".5" stop-color="#070d20"/><stop offset="1" stop-color="#11152e"/></linearGradient>
+ <radialGradient id="earth"><stop stop-color="#5ce0ff"/><stop offset=".62" stop-color="#1762a8"/><stop offset="1" stop-color="#06152e"/></radialGradient>
+ <radialGradient id="sun"><stop stop-color="#fff9cf"/><stop offset=".4" stop-color="#ffd36b"/><stop offset=".75" stop-color="#f47b4d"/><stop offset="1" stop-color="#9d315e"/></radialGradient>
+ <radialGradient id="nebula"><stop stop-color="#ed78c9" stop-opacity=".42"/><stop offset=".5" stop-color="#6e62d8" stop-opacity=".2"/><stop offset="1" stop-color="#0b1230" stop-opacity="0"/></radialGradient>
+ <radialGradient id="black"><stop offset=".6" stop-color="#000"/><stop offset=".75" stop-color="#03020a"/><stop offset=".82" stop-color="#ffb36d"/><stop offset=".9" stop-color="#a36df0"/><stop offset="1" stop-color="#080b1e"/></radialGradient>
+ <linearGradient id="acc" x1="0" x2="1"><stop stop-color="#55d7ff" stop-opacity="0"/><stop offset=".35" stop-color="#8a91ff"/><stop offset=".55" stop-color="#ffbd80"/><stop offset="1" stop-color="#55d7ff" stop-opacity="0"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
  <filter id="soft"><feGaussianBlur stdDeviation="5"/></filter>
- <pattern id="field" width="190" height="145" patternUnits="userSpaceOnUse">
-  <circle cx="16" cy="22" r="1.1" fill="#fff"/><circle cx="70" cy="84" r=".8" fill="#d6e7ff"/><circle cx="150" cy="35" r="1.2" fill="#fff"/>
-  <circle cx="114" cy="124" r=".7" fill="#fff"/><circle cx="177" cy="102" r=".9" fill="#b9caff"/><circle cx="40" cy="130" r=".6" fill="#fff"/>
+ <pattern id="stars" width="170" height="130" patternUnits="userSpaceOnUse">
+  <circle cx="12" cy="16" r="1.1" fill="#fff"/><circle cx="65" cy="57" r=".8" fill="#c9ddff"/><circle cx="138" cy="25" r="1.2" fill="#fff"/><circle cx="108" cy="103" r=".8" fill="#fff"/><circle cx="159" cy="92" r=".7" fill="#c6caff"/><circle cx="28" cy="112" r=".6" fill="#fff"/>
  </pattern>
 </defs>
-<rect width="1600" height="520" rx="26" fill="url(#bg)"/>
-<rect width="1600" height="520" rx="26" fill="url(#field)" opacity=".85"/>
-<ellipse cx="360" cy="255" rx="510" ry="330" fill="url(#nebula)"/>
-<ellipse cx="360" cy="255" rx="250" ry="150" fill="#8e58ce" opacity=".10" filter="url(#bloom)"/>
-<!-- nebula filaments -->
-<g fill="none" stroke-linecap="round">
- <path d="M20 340C170 150 280 410 490 190S710 190 760 50" stroke="#8e77df" stroke-width="38" opacity=".07" filter="url(#bloom)"/>
- <path d="M30 380C190 210 300 430 510 225S700 210 790 75" stroke="#69bfe9" stroke-width="8" opacity=".12" filter="url(#soft)"/>
- <path d="M80 140C230 40 350 190 520 75" stroke="#d18adf" stroke-width="4" opacity=".14" filter="url(#soft)"/>
+<rect width="1600" height="560" rx="24" fill="url(#void)"/>
+<rect width="1600" height="560" rx="24" fill="url(#stars)"/>
+<!-- broad Milky Way dust lane -->
+<path d="M-80 420C240 160 440 510 760 245S1260 40 1690 170" fill="none" stroke="#a58de8" stroke-width="145" opacity=".08" filter="url(#glow)"/>
+<path d="M-50 440C250 205 480 500 780 270S1260 80 1660 190" fill="none" stroke="#8cc9e8" stroke-width="35" opacity=".08" filter="url(#glow)"/>
+<ellipse cx="450" cy="230" rx="430" ry="290" fill="url(#nebula)"/>
+<!-- Earth, foreground left -->
+<g transform="translate(155 390)">
+ <circle r="80" fill="#237ec4" opacity=".3" filter="url(#glow)"/>
+ <circle r="57" fill="url(#earth)"/>
+ <path d="M-40-20l20-20 18 6 8 20-16 14-20-4zM15 8l22-8 17 12-8 25-20 6-18-16z" fill="#5bc28e" opacity=".85"/>
+ <path d="M-55-5Q-20-65 40-36" fill="none" stroke="#b8edff" stroke-opacity=".7" stroke-width="3"/>
+ <path d="M-56 10Q0 70 54 15" fill="none" stroke="#65caff" stroke-opacity=".35" stroke-width="5"/>
+</g>
+<!-- Sun and planetary silhouettes -->
+<g transform="translate(480 280)">
+ <circle r="76" fill="#ff9e58" opacity=".22" filter="url(#glow)"/>
+ <circle r="42" fill="url(#sun)"/>
+ <ellipse rx="112" ry="44" fill="none" stroke="#7ea6e8" stroke-opacity=".22"/>
+ <ellipse rx="166" ry="67" fill="none" stroke="#7ea6e8" stroke-opacity=".18"/>
+ <circle cx="112" cy="0" r="8" fill="#7ddcff"/>
+ <circle cx="-166" cy="0" r="11" fill="#d18b78"/>
+ <g><circle cx="0" cy="-67" r="6" fill="#d7e6ff"/></g>
+ <animateTransform attributeName="transform" type="rotate" from="0 480 280" to="360 480 280" dur="95s" repeatCount="indefinite"/>
+</g>
+<!-- black hole far right -->
+<g transform="translate(1290 285)">
+ <ellipse rx="190" ry="54" fill="none" stroke="url(#acc)" stroke-width="30" opacity=".7" filter="url(#glow)" transform="rotate(-14)"/>
+ <ellipse rx="175" ry="48" fill="none" stroke="url(#acc)" stroke-width="8" opacity=".9" transform="rotate(-14)"/>
+ <circle r="59" fill="#000"/>
+ <circle r="70" fill="none" stroke="#9c8cff" stroke-opacity=".4" stroke-width="3" filter="url(#soft)"/>
+ <animateTransform attributeName="transform" type="rotate" from="0 1290 285" to="360 1290 285" dur="110s" repeatCount="indefinite"/>
 </g>
 <!-- distant spiral galaxy -->
-<g transform="translate(300 205)">
- <ellipse rx="142" ry="48" fill="none" stroke="#8b9fe8" stroke-width="18" opacity=".13" filter="url(#soft)"/>
- <path d="M-130 8C-85-93 70-104 123-22S50 100-62 54 6-67 78-34" fill="none" stroke="#c6c4ff" stroke-width="2.5" opacity=".68"/>
- <path d="M-95-38C-25-110 94-50 75 25S-55 76-57-2 58-54 87 0" fill="none" stroke="#83d9f4" stroke-width="2" opacity=".6"/>
- <circle r="17" fill="#fff2d5" opacity=".75" filter="url(#bloom)"/>
- <circle r="5" fill="#fff7e8"/>
- <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="180s" repeatCount="indefinite"/>
+<g transform="translate(875 155)">
+ <ellipse rx="95" ry="32" fill="none" stroke="#9b8bff" stroke-width="15" opacity=".2" filter="url(#soft)"/>
+ <path d="M-85 0C-45-75 45-70 78-10S30 64-48 30 5-50 50-22" fill="none" stroke="#c6c6ff" stroke-width="2" opacity=".8"/>
+ <path d="M-55-20C-2-75 65-18 38 25S-40 40-30-5 34-32 50 4" fill="none" stroke="#78d7f5" stroke-width="2" opacity=".65"/>
+ <circle r="7" fill="#fff3d4"/>
+ <animateTransform attributeName="transform" type="rotate" from="0 875 155" to="360 875 155" dur="130s" repeatCount="indefinite"/>
 </g>
-<!-- black hole: dark event horizon and luminous accretion disk -->
-<g transform="translate(1190 228)">
- <ellipse rx="230" ry="68" fill="none" stroke="url(#disk)" stroke-width="36" opacity=".75" filter="url(#bloom)" transform="rotate(-13)"/>
- <ellipse rx="215" ry="60" fill="none" stroke="url(#disk)" stroke-width="11" opacity=".95" transform="rotate(-13)"/>
- <ellipse rx="176" ry="48" fill="none" stroke="#f7c5a0" stroke-width="2" opacity=".55" transform="rotate(-13)"/>
- <circle r="68" fill="#000" />
- <circle r="74" fill="none" stroke="#a5a2df" stroke-width="2" opacity=".45" filter="url(#soft)"/>
- <animateTransform attributeName="transform" type="rotate" from="0 1190 228" to="360 1190 228" dur="150s" repeatCount="indefinite"/>
+<!-- Voyager 1 as tiny probe travelling away from Earth -->
+<path d="M210 480Q520 520 760 455T1150 390" fill="none" stroke="#85dfff" stroke-opacity=".3" stroke-width="2" stroke-dasharray="5 10"/>
+<g transform="translate(230 480)" stroke="#e4f5ff" stroke-width="2.5" fill="none">
+ <path d="M0-10V10M-10 0H10M-7-8L7 8M7-8L-7 8"/>
+ <circle r="4" fill="#fff1bd" stroke="none"/>
+ <animateMotion path="M0 0 Q400 20 900 -90" dur="28s" repeatCount="indefinite"/>
 </g>
-<!-- ringed planet in foreground -->
-<g transform="translate(1460 385)">
- <ellipse rx="112" ry="28" fill="none" stroke="url(#rings)" stroke-width="13" transform="rotate(-18)"/>
- <circle r="57" fill="url(#planet)"/>
- <path d="M-47-16Q0-37 49-10M-52 8Q0-8 54 13" fill="none" stroke="#d9c9bd" stroke-opacity=".22" stroke-width="5"/>
- <ellipse rx="112" ry="28" fill="none" stroke="url(#rings)" stroke-width="5" transform="rotate(-18)"/>
- <animateTransform attributeName="transform" type="rotate" from="0 1460 385" to="360 1460 385" dur="100s" repeatCount="indefinite"/>
-</g>
-<!-- subtle star glints -->
-<g stroke="#d8edff" stroke-linecap="round" opacity=".8">
- <path d="M900 100V118M891 109H909" stroke-width="1.5"><animate attributeName="opacity" values=".15;.9;.15" dur="4s" repeatCount="indefinite"/></path>
- <path d="M680 365V379M673 372H687" stroke-width="1.2"><animate attributeName="opacity" values=".9;.15;.9" dur="3s" repeatCount="indefinite"/></path>
- <path d="M151 75V87M145 81H157" stroke-width="1.2"><animate attributeName="opacity" values=".2;.9;.2" dur="3.7s" repeatCount="indefinite"/></path>
-</g>
+<!-- subtle glints -->
+<g stroke="#d9eeff" stroke-width="1.5"><path d="M690 70v16m-8-8h16"><animate attributeName="opacity" values=".15;1;.15" dur="3.5s" repeatCount="indefinite"/></path><path d="M1080 440v14m-7-7h14"><animate attributeName="opacity" values="1;.2;1" dur="4s" repeatCount="indefinite"/></path></g>
 <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
- <text x="800" y="112" fill="#f7f5ff" font-size="58" font-weight="700" letter-spacing="7">CHAMAN AFZAAL</text>
- <text x="800" y="158" fill="#b9d5f8" font-size="20" letter-spacing="5">AI / ML ENGINEERING  •  DATA SYSTEMS</text>
- <text x="800" y="470" fill="#b6c7e8" font-size="15" letter-spacing="4">CURIOUS ABOUT THE COSMOS  ·  ALWAYS EXPLORING</text>
+ <text x="800" y="95" fill="#f4f6ff" font-size="56" font-weight="700" letter-spacing="7">CHAMAN AFZAAL</text>
+ <text x="800" y="140" fill="#b8d8ff" font-size="19" letter-spacing="5">ENGINEERING WITH CURIOSITY</text>
+ <text x="800" y="525" fill="#b5c8e9" font-size="15" letter-spacing="4">A SMALL PLANET  ·  AN IMMENSE UNIVERSE  ·  ENDLESS QUESTIONS</text>
 </g>
 </svg>
