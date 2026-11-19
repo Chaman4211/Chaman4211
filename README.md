@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Chaman4211/Chaman4211/main/assets/profile-banner.svg" alt="Chaman Afzaal cinematic deep-space banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/Chaman4211/Chaman4211/main/assets/profile-banner.svg?v=original-animated-20261120" alt="Chaman Afzaal cinematic deep-space banner" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer+%F0%9F%A4%96;Building+Data+Pipelines+%26+ETL+Systems+%F0%9F%93%8A;Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0;Exploring+Agentic+RAG+%26+LLM+Applications+%E2%9A%A1;Learning+by+Building+Real+Projects+%F0%9F%9A%80" alt="Animated role descriptions" />
   <br/>
   <a href="https://github.com/Chaman4211"><img src="https://img.shields.io/badge/GitHub-Chaman4211-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
