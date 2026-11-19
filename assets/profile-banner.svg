@@ -16,6 +16,9 @@
 </defs>
 <rect width="1600" height="560" rx="24" fill="url(#void)"/>
 <rect width="1600" height="560" rx="24" fill="url(#stars)"/>
+<!-- Camera sequence: begin close to Earth, then pull back to reveal the wider cosmos. -->
+<g id="cosmic-journey">
+ <animateTransform attributeName="transform" type="matrix" values="3 0 0 3 335 -890;1 0 0 1 0 0" keyTimes="0;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines=".35 0 .2 1"/>
 <!-- broad Milky Way dust lane -->
 <path d="M-80 420C240 160 440 510 760 245S1260 40 1690 170" fill="none" stroke="#a58de8" stroke-width="145" opacity=".08" filter="url(#glow)"/>
 <path d="M-50 440C250 205 480 500 780 270S1260 80 1660 190" fill="none" stroke="#8cc9e8" stroke-width="35" opacity=".08" filter="url(#glow)"/>
@@ -62,11 +65,22 @@
  <circle r="4" fill="#fff1bd" stroke="none"/>
  <animateMotion path="M0 0 Q400 20 900 -90" dur="28s" repeatCount="indefinite"/>
 </g>
+</g>
 <!-- subtle glints -->
 <g stroke="#d9eeff" stroke-width="1.5"><path d="M690 70v16m-8-8h16"><animate attributeName="opacity" values=".15;1;.15" dur="3.5s" repeatCount="indefinite"/></path><path d="M1080 440v14m-7-7h14"><animate attributeName="opacity" values="1;.2;1" dur="4s" repeatCount="indefinite"/></path></g>
 <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
- <text x="800" y="95" fill="#f4f6ff" font-size="56" font-weight="700" letter-spacing="7">CHAMAN AFZAAL</text>
- <text x="800" y="140" fill="#b8d8ff" font-size="19" letter-spacing="5">ENGINEERING WITH CURIOSITY</text>
+ <text x="800" y="105" fill="#f4f6ff" font-size="57" font-weight="700" letter-spacing="7">CHAMAN AFZAAL
+  <animate attributeName="opacity" values="1;1;1;0;0;1" keyTimes="0;.36;.48;.64;.9;1" dur="24s" repeatCount="indefinite"/>
+ </text>
+ <text x="800" y="150" fill="#b8d8ff" font-size="19" letter-spacing="5">ENGINEERING WITH CURIOSITY</text>
  <text x="800" y="525" fill="#b5c8e9" font-size="15" letter-spacing="4">A SMALL PLANET  ·  AN IMMENSE UNIVERSE  ·  ENDLESS QUESTIONS</text>
+</g>
+<!-- A black hole sweeps across the title; the title fades as it passes, as a cinematic metaphor. -->
+<g>
+ <ellipse cx="0" cy="0" rx="145" ry="43" fill="none" stroke="url(#acc)" stroke-width="22" opacity=".9" filter="url(#glow)"/>
+ <ellipse cx="0" cy="0" rx="128" ry="36" fill="none" stroke="url(#acc)" stroke-width="8" opacity=".95"/>
+ <circle cx="0" cy="0" r="49" fill="#000"/>
+ <circle cx="0" cy="0" r="57" fill="none" stroke="#9c8cff" stroke-opacity=".55" stroke-width="3" filter="url(#soft)"/>
+ <animateTransform attributeName="transform" type="translate" values="1740 105;800 105;-180 105;1740 105" keyTimes="0;.38;.7;1" dur="24s" repeatCount="indefinite" calcMode="spline" keySplines=".35 0 .2 1;.35 0 .2 1;.35 0 .2 1"/>
 </g>
 </svg>
