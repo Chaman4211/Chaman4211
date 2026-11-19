@@ -223,24 +223,21 @@ A collaborative community project focused on multi-agent workspace discovery, re
 
 ## 🌌 Beyond the Code — My Curiosity About Space
 
-Outside software and data, I’m fascinated by the universe. Stargazing makes me think about how much is still out there — distant worlds, stellar nurseries, galaxies, and phenomena we are only beginning to understand.
+When I'm away from coding, I often find myself looking up at the night sky and wondering how much is still waiting to be discovered. I'm curious about stargazing, planets, our Solar System, distant stars, galaxies, nebulae, black holes, and the vast interstellar universe.
 
-- 🔭 **Stargazing & the night sky** — learning to recognize celestial objects and constellations.
-- ☀️ **The Sun & our Solar System** — planets, moons, rings, comets, and the science of our cosmic neighbourhood.
-- ✨ **Stars & nebulae** — stellar birth, life cycles, supernovae, and the elements stars create.
-- 🌌 **Galaxies & interstellar space** — the Milky Way, distant galaxies, and the space between stars.
-- 🕳️ **Black holes** — event horizons, extreme gravity, and the mysteries of spacetime.
-- 🚀 **Space exploration** — robotic spacecraft, space telescopes, and humanity's journey beyond Earth.
+### 🛰️ Why Voyager 1 fascinates me
 
-### 🛰️ Voyager 1 — one light-day from Earth
+Voyager 1 is one of the missions I find most inspiring. The thought that a spacecraft built by people on Earth is now travelling through interstellar space — carrying the Golden Record with sounds and images from our world — is incredible to me.
 
-A milestone I find incredible: **Voyager 1 crossed one light-day from Earth on November 18, 2026**, becoming the first human-made object to reach that distance. One light-day is about **16.1 billion miles (25.9 billion kilometres)**. Its radio signal now takes roughly **24 hours to travel one way** — so a message and its reply would take about two days, even travelling at the speed of light.
+Its journey makes the universe feel both unimaginably huge and strangely connected to us. I love thinking about where it has travelled, what it has taught us, and how a small machine from Earth continues into the unknown.
 
-Launched in 1977, Voyager 1 entered interstellar space in 2012 and carries the Golden Record: sounds and images representing life on Earth. Nearly five decades into its journey, it is still our farthest-travelling spacecraft.
+On **November 18, 2026**, Voyager 1 reached **one light-day from Earth** — about **16.1 billion miles (25.9 billion kilometres)** away. That means its signal takes roughly 24 hours to reach us. It's a milestone that captures exactly why space exploration fascinates me. <sup>[NASA](https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/)</sup>
 
-**Read the milestone announcement:** [NASA — Voyager 1 reaches one light-day from Earth](https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/).
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1600&color=9BCBFF&center=true&vCenter=true&width=850&lines=I+love+looking+up+at+the+night+sky+%F0%9F%94%AD;Curious+about+planets%2C+stars+%26+galaxies+%F0%9F%8C%8C;Fascinated+by+black+holes+and+the+unknown+%F0%9F%95%B3%EF%B8%8F;Inspired+by+Voyager+1+and+its+journey+%F0%9F%9A%80;Always+wondering+what+lies+beyond+%E2%9C%A8" alt="Animated space curiosity messages" />
+</div>
 
-*The universe is vast. Curiosity is how I explore it.*
+*The more I learn about the universe, the more I realize how much there is left to explore.*
 
 ## 🤝 Connect
 
