@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Chaman4211/Chaman4211/main/assets/profile-banner.svg" alt="Chaman Afzaal animated cosmic universe banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/Chaman4211/Chaman4211/main/assets/profile-banner.svg" alt="Chaman Afzaal cinematic deep-space banner" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer+%F0%9F%A4%96;Building+Data+Pipelines+%26+ETL+Systems+%F0%9F%93%8A;Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0;Exploring+Agentic+RAG+%26+LLM+Applications+%E2%9A%A1;Learning+by+Building+Real+Projects+%F0%9F%9A%80" alt="Animated role descriptions" />
   <br/>
   <a href="https://github.com/Chaman4211"><img src="https://img.shields.io/badge/GitHub-Chaman4211-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
@@ -221,32 +221,26 @@ A collaborative community project focused on multi-agent workspace discovery, re
 - Agentic RAG and LLM application patterns
 - Machine learning evaluation and deployment
 
-## 🌌 My Other Universe — Space, Astronomy & Exploration
+## 🌌 Beyond the Code — My Curiosity About Space
 
-Beyond technology, I'm fascinated by the cosmos. A clear night sky makes me wonder about the worlds, stars, and mysteries waiting beyond our planet.
+Outside software and data, I’m fascinated by the universe. Stargazing makes me think about how much is still out there — distant worlds, stellar nurseries, galaxies, and phenomena we are only beginning to understand.
 
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Chaman4211/Chaman4211/main/assets/space-universe.svg" alt="Animated universe with stars, planets, galaxies, a black hole and Voyager 1" />
-</div>
+- 🔭 **Stargazing & the night sky** — learning to recognize celestial objects and constellations.
+- ☀️ **The Sun & our Solar System** — planets, moons, rings, comets, and the science of our cosmic neighbourhood.
+- ✨ **Stars & nebulae** — stellar birth, life cycles, supernovae, and the elements stars create.
+- 🌌 **Galaxies & interstellar space** — the Milky Way, distant galaxies, and the space between stars.
+- 🕳️ **Black holes** — event horizons, extreme gravity, and the mysteries of spacetime.
+- 🚀 **Space exploration** — robotic spacecraft, space telescopes, and humanity's journey beyond Earth.
 
-### 🔭 What keeps me looking up
+### 🛰️ Voyager 1 — one light-day from Earth
 
-- 🌠 **Stargazing:** Exploring the night sky and learning to recognize what is out there.
-- 🪐 **Planets & Solar Systems:** The worlds in our Solar System and planets orbiting distant stars.
-- ✨ **Stars & Nebulae:** How stars are born, evolve, and illuminate the universe.
-- 🌌 **Galaxies & Interstellar Space:** The scale of galaxies and the vast space between stars.
-- 🕳️ **Black Holes:** Extreme gravity, event horizons, spacetime, and cosmic mysteries.
-- 🚀 **Space Exploration:** Deep-space probes, telescopes, the Moon, Mars, and missions beyond Earth.
+A milestone I find incredible: **Voyager 1 crossed one light-day from Earth on November 18, 2026**, becoming the first human-made object to reach that distance. One light-day is about **16.1 billion miles (25.9 billion kilometres)**. Its radio signal now takes roughly **24 hours to travel one way** — so a message and its reply would take about two days, even travelling at the speed of light.
 
-### 🛰️ Voyager 1 — a message from Earth
+Launched in 1977, Voyager 1 entered interstellar space in 2012 and carries the Golden Record: sounds and images representing life on Earth. Nearly five decades into its journey, it is still our farthest-travelling spacecraft.
 
-One mission I find especially inspiring is **[NASA's Voyager 1](https://science.nasa.gov/mission/voyager/)**. Launched in 1977, it crossed the heliopause in 2012 and became the first spacecraft to enter interstellar space. It continues its journey outward, carrying the Golden Record — a small message from Earth into the cosmos.
+**Read the milestone announcement:** [NASA — Voyager 1 reaches one light-day from Earth](https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/).
 
-*Look up. Stay curious. There is always more to discover.*
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=9BCBFF&center=true&vCenter=true&width=850&lines=From+our+Solar+System+to+the+interstellar+void+%F0%9F%9A%80;Black+holes%2C+galaxies%2C+stars+%26+unknown+worlds+%E2%9C%A8;The+universe+is+too+interesting+to+stop+asking+questions." alt="Animated space curiosity messages" />
-</div>
+*The universe is vast. Curiosity is how I explore it.*
 
 ## 🤝 Connect
 
