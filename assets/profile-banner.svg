@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+<title id="title">Chaman Afzaal — AI, Data Engineering and Intelligent Systems</title>
+<desc id="desc">A dark futuristic gradient banner with abstract data streams, network nodes, and the name Chaman Afzaal.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#080d1d"/><stop offset=".52" stop-color="#171a42"/><stop offset="1" stop-color="#092b3b"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#54d6ff"/><stop offset=".52" stop-color="#8b7cff"/><stop offset="1" stop-color="#53f0c1"/>
+  </linearGradient>
+  <radialGradient id="glow"><stop stop-color="#5a78ff" stop-opacity=".28"/><stop offset="1" stop-color="#5a78ff" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+    <path d="M42 0H0V42" fill="none" stroke="#9bb8ff" stroke-opacity=".09" stroke-width="1"/>
+  </pattern>
+  <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect width="1600" height="420" rx="28" fill="url(#bg)"/>
+<rect width="1600" height="420" rx="28" fill="url(#grid)"/>
+<ellipse cx="300" cy="80" rx="360" ry="220" fill="url(#glow)" filter="url(#blur)"/>
+<ellipse cx="1370" cy="360" rx="390" ry="260" fill="url(#glow)" filter="url(#blur)"/>
+<g fill="none" stroke="url(#accent)" stroke-opacity=".42" stroke-width="2">
+  <path d="M0 320H180L245 255H390L455 190H560"/>
+  <path d="M1600 100H1450L1380 170H1270L1190 250H1080"/>
+  <path d="M1020 0V62L960 122V175"/>
+  <path d="M550 420V360L610 300H700"/>
+  <path d="M1290 420V360L1220 290H1150"/>
+</g>
+<g fill="#67dcff">
+  <circle cx="180" cy="320" r="5"/><circle cx="390" cy="255" r="5"/><circle cx="560" cy="190" r="5"/>
+  <circle cx="1450" cy="100" r="5"/><circle cx="1270" cy="170" r="5"/><circle cx="1080" cy="250" r="5"/>
+  <circle cx="960" cy="122" r="4"/><circle cx="610" cy="300" r="4"/><circle cx="1220" cy="290" r="4"/>
+</g>
+<g fill="none" stroke="#8c9bff" stroke-opacity=".28">
+  <circle cx="1330" cy="205" r="105"/><circle cx="1330" cy="205" r="145"/><circle cx="1330" cy="205" r="185"/>
+  <circle cx="250" cy="165" r="85"/><circle cx="250" cy="165" r="125"/>
+</g>
+<g fill="#d7e7ff" opacity=".75">
+  <circle cx="92" cy="82" r="2"/><circle cx="390" cy="82" r="2"/><circle cx="505" cy="350" r="2"/>
+  <circle cx="1100" cy="70" r="2"/><circle cx="1500" cy="300" r="2"/><circle cx="1440" cy="55" r="2"/>
+  <circle cx="780" cy="70" r="2"/><circle cx="870" cy="355" r="2"/>
+</g>
+<g text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">
+  <text x="800" y="170" fill="#ffffff" font-size="66" font-weight="700" letter-spacing="7">CHAMAN AFZAAL</text>
+  <rect x="560" y="198" width="480" height="3" rx="2" fill="url(#accent)"/>
+  <text x="800" y="246" fill="#d9e7ff" font-size="24" letter-spacing="4">AI / ML ENGINEERING</text>
+  <text x="800" y="290" fill="#a9bce4" font-size="18" letter-spacing="3">DATA PIPELINES  •  MACHINE LEARNING  •  AGENTIC AI</text>
+</g>
+<g transform="translate(68 350)" opacity=".8">
+  <rect width="210" height="34" rx="17" fill="#ffffff" fill-opacity=".06" stroke="#83aaff" stroke-opacity=".4"/>
+  <circle cx="18" cy="17" r="4" fill="#53f0c1"/>
+  <text x="34" y="22" fill="#cfe5ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1.5">BUILD • LEARN • SHIP</text>
+</g>
+</svg>
