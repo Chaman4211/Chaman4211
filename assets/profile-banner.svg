@@ -1,77 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
-<title id="title">Chaman Afzaal — A journey through the universe</title>
-<desc id="desc">A cinematic animated journey from a real NASA Earth image through the Solar System and Milky Way to a NASA black-hole visualization. The name Chaman Afzaal travels into the black hole and reappears on the far side.</desc>
+<title id="title">Chaman Afzaal — Into the unknown</title>
+<desc id="desc">A cinematic banner using NASA Goddard's animated black-hole accretion-disk visualization. One title travels toward the black hole, disappears, and reappears on the far side.</desc>
 <defs>
- <linearGradient id="shade" x2="0" y2="1"><stop stop-color="#02040b" stop-opacity=".15"/><stop offset=".55" stop-color="#030611" stop-opacity=".25"/><stop offset="1" stop-color="#02040b" stop-opacity=".88"/></linearGradient>
- <linearGradient id="beam"><stop stop-color="#72dfff" stop-opacity="0"/><stop offset=".45" stop-color="#b6a4ff"/><stop offset=".6" stop-color="#ffd19b"/><stop offset="1" stop-color="#72dfff" stop-opacity="0"/></linearGradient>
- <radialGradient id="space"><stop stop-color="#16274b"/><stop offset="1" stop-color="#02040b"/></radialGradient>
- <filter id="glow"><feGaussianBlur stdDeviation="9"/></filter>
- <filter id="blur"><feGaussianBlur stdDeviation="3"/></filter>
- <clipPath id="frame"><rect width="1600" height="560" rx="22"/></clipPath>
+ <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#02040a" stop-opacity=".25"/><stop offset=".55" stop-color="#02040a" stop-opacity=".08"/><stop offset="1" stop-color="#02040a" stop-opacity=".88"/></linearGradient>
+ <linearGradient id="titleGlow"><stop stop-color="#8ce8ff"/><stop offset=".48" stop-color="#ffffff"/><stop offset="1" stop-color="#d4c7ff"/></linearGradient>
+ <filter id="glow" x="-60%" y="-100%" width="220%" height="300%"><feGaussianBlur stdDeviation="7"/></filter>
+ <clipPath id="clip"><rect width="1600" height="560" rx="22"/></clipPath>
 </defs>
-<g clip-path="url(#frame)">
- <rect width="1600" height="560" fill="url(#space)"/>
- <g fill="#fff">
-  <circle cx="65" cy="60" r="1.4"/><circle cx="230" cy="112" r="1"/><circle cx="390" cy="42" r="1.3"/><circle cx="570" cy="91" r="1"/><circle cx="760" cy="55" r="1.2"/><circle cx="980" cy="104" r="1"/><circle cx="1190" cy="47" r="1.3"/><circle cx="1450" cy="92" r="1"/><circle cx="1540" cy="35" r="1.3"/><circle cx="110" cy="420" r="1"/><circle cx="330" cy="490" r="1.3"/><circle cx="550" cy="405" r="1"/><circle cx="770" cy="470" r="1.2"/><circle cx="1010" cy="420" r="1"/><circle cx="1260" cy="495" r="1.3"/><circle cx="1490" cy="410" r="1"/>
- </g>
- <!-- NASA Earth from Space imagery -->
- <g>
-  <image xlink:href="https://svs.gsfc.nasa.gov/vis/a000000/a002000/a002632/blue_clouds.0001.jpg" x="-120" y="-40" width="1840" height="690" preserveAspectRatio="xMidYMid slice"/>
-  <rect width="1600" height="560" fill="#020715" opacity=".24"/>
-  <animate attributeName="opacity" values="1;1;0;0;0;1" keyTimes="0;.12;.22;.78;.9;1" dur="24s" repeatCount="indefinite"/>
- </g>
- <!-- Solar System phase: stylized orbital paths over NASA space imagery -->
- <g opacity="0">
-  <image xlink:href="https://svs.gsfc.nasa.gov/vis/a000000/a011000/a011543/c-1280.jpg" x="0" y="0" width="1600" height="560" preserveAspectRatio="xMidYMid slice"/>
-  <rect width="1600" height="560" fill="#020613" opacity=".35"/>
-  <g fill="none" stroke="#c3d9ff" stroke-opacity=".42">
-   <ellipse cx="800" cy="270" rx="180" ry="65"/><ellipse cx="800" cy="270" rx="300" ry="108"/><ellipse cx="800" cy="270" rx="430" ry="155"/>
-  </g>
-  <circle cx="800" cy="270" r="32" fill="#ffd58b" filter="url(#glow)"/><circle cx="800" cy="270" r="19" fill="#ffca6d"/>
-  <circle cx="620" cy="270" r="8" fill="#8bd8ff"/><circle cx="1100" cy="270" r="12" fill="#d5a28d"/><circle cx="500" cy="270" r="5" fill="#c8d5e8"/>
-  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.16;.23;.36;.45;1" dur="24s" repeatCount="indefinite"/>
- </g>
- <!-- Milky Way phase: NASA Spitzer panorama -->
- <g opacity="0">
-  <image xlink:href="https://svs.gsfc.nasa.gov/vis/a000000/a011000/a011543/c-1280.jpg" x="0" y="0" width="1600" height="560" preserveAspectRatio="xMidYMid slice"/>
-  <rect width="1600" height="560" fill="#02040d" opacity=".35"/>
-  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.32;.39;.57;.66;1" dur="24s" repeatCount="indefinite"/>
- </g>
- <!-- Black-hole phase: NASA scientific visualization/illustration -->
- <g opacity="0">
-  <image xlink:href="https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/2023/09/Black_Hole_Side_view-1.png?crop=faces%2Cfocalpoint&amp;fit=clip&amp;h=1676&amp;w=2818" x="390" y="-30" width="820" height="620" preserveAspectRatio="xMidYMid meet"/>
-  <rect width="1600" height="560" fill="#02040a" opacity=".24"/>
-  <animate attributeName="opacity" values="0;0;1;1;1;1" keyTimes="0;.48;.57;.72;.9;1" dur="24s" repeatCount="indefinite"/>
- </g>
+<g clip-path="url(#clip)">
+ <rect width="1600" height="560" fill="#02040b"/>
+ <!-- Authentic NASA Goddard black-hole accretion-disk visualization, animated GIF -->
+ <image x="0" y="34" width="1600" height="491" preserveAspectRatio="xMidYMid slice"
+  href="https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_Banner_Stationary.gif"
+  xlink:href="https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_Banner_Stationary.gif"/>
  <rect width="1600" height="560" fill="url(#shade)"/>
- <!-- Black hole event horizon is fixed. The name travels from left to right through it. -->
- <g transform="translate(800 278)">
-  <ellipse rx="260" ry="80" fill="none" stroke="#7edfff" stroke-width="35" opacity=".22" filter="url(#glow)"/>
-  <ellipse rx="235" ry="66" fill="none" stroke="url(#beam)" stroke-width="15" opacity=".95" transform="rotate(-8)"/>
-  <ellipse rx="205" ry="55" fill="none" stroke="#ffbd83" stroke-width="4" opacity=".8" transform="rotate(-8)"/>
-  <circle r="84" fill="#000"/>
-  <circle r="91" fill="none" stroke="#b4a4ff" stroke-width="2" opacity=".8" filter="url(#blur)"/>
-  <animate attributeName="opacity" values="0;0;1;1;1" keyTimes="0;.46;.55;.75;1" dur="24s" repeatCount="indefinite"/>
+ <!-- Quiet star field; kept subtle so the NASA visualization remains the hero -->
+ <g fill="#fff" opacity=".55">
+  <circle cx="88" cy="74" r="1.3"/><circle cx="245" cy="158" r=".9"/><circle cx="390" cy="63" r="1.1"/><circle cx="1280" cy="84" r="1.2"/><circle cx="1480" cy="166" r=".9"/><circle cx="138" cy="440" r="1"/><circle cx="1450" cy="438" r="1.1"/><circle cx="1100" cy="470" r=".8"/>
  </g>
- <!-- incoming name: approaches the event horizon, stretches, then disappears behind it -->
- <g font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="800" letter-spacing="5" fill="#ffffff" text-anchor="middle">
-  <text x="0" y="0" filter="url(#glow)" fill="#7fdfff" opacity=".65">CHAMAN AFZAAL</text>
-  <text x="0" y="0">CHAMAN AFZAAL</text>
-  <animateTransform attributeName="transform" type="translate" values="90 286;430 286;690 286;785 286" keyTimes="0;.55;.84;1" dur="24s" repeatCount="indefinite" calcMode="spline" keySplines=".3 0 .7 1;.3 0 .7 1;.3 0 .7 1"/>
-  <animateTransform attributeName="transform" additive="sum" type="scale" values="1 1;.85 1;.28 .12;.015 .01" keyTimes="0;.55;.84;1" dur="24s" repeatCount="indefinite"/>
-  <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;.47;.53;.78;.88;1" dur="24s" repeatCount="indefinite"/>
+ <!-- The title is ONE text object. It shrinks into the event horizon, vanishes,
+      crosses while invisible, then reforms on the far side. No duplicate title. -->
+ <g font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="800" letter-spacing="4" text-anchor="middle">
+  <text x="0" y="0" fill="#8ce8ff" opacity=".72" filter="url(#glow)">CHAMAN AFZAAL</text>
+  <text x="0" y="0" fill="url(#titleGlow)" stroke="#dffaff" stroke-opacity=".35" stroke-width=".7">CHAMAN AFZAAL</text>
+  <animateTransform attributeName="transform" type="matrix"
+   values="1 0 0 1 330 292; 1 0 0 1 590 292; .025 0 0 .025 790 292; .025 0 0 .025 900 292; 1 0 0 1 1270 292"
+   keyTimes="0;.32;.46;.58;1" dur="13s" repeatCount="indefinite"
+   calcMode="spline" keySplines=".25 .1 .25 1;.4 0 .6 1;.4 0 .6 1;.25 .1 .25 1"/>
+  <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.34;.45;.59;1" dur="13s" repeatCount="indefinite"/>
  </g>
- <!-- outgoing name: emerges from the far side and reforms -->
- <g font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="800" letter-spacing="5" fill="#ffffff" text-anchor="middle">
-  <text x="0" y="0" fill="#8fe7ff" opacity=".8" filter="url(#glow)">CHAMAN AFZAAL</text>
-  <text x="0" y="0">CHAMAN AFZAAL</text>
-  <animateTransform attributeName="transform" type="translate" values="815 286;900 286;1160 286;1510 286" keyTimes="0;.16;.55;1" begin="12s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".2 0 .7 1;.2 0 .7 1;.2 0 .7 1"/>
-  <animateTransform attributeName="transform" additive="sum" type="scale" values=".01 .01;.18 .12;.8 1;1 1" keyTimes="0;.16;.55;1" begin="12s" dur="12s" repeatCount="indefinite"/>
-  <animate attributeName="opacity" values="0;0;1;1;1" keyTimes="0;.12;.24;.75;1" begin="12s" dur="12s" repeatCount="indefinite"/>
- </g>
+ <!-- Event horizon overlay sits above the moving title and hides it at the point of no return. -->
+ <circle cx="800" cy="280" r="67" fill="#000" opacity=".98"/>
+ <circle cx="800" cy="280" r="72" fill="none" stroke="#d9c5ff" stroke-opacity=".25" stroke-width="2"/>
+ <ellipse cx="800" cy="280" rx="150" ry="34" fill="none" stroke="#9ce8ff" stroke-opacity=".12" stroke-width="3" filter="url(#glow)"/>
+ <!-- Only supporting copy; the name is never repeated. -->
  <g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
-  <text x="800" y="82" fill="#f4f7ff" font-size="17" letter-spacing="6">FROM EARTH TO THE EDGE OF THE UNKNOWN</text>
-  <text x="800" y="520" fill="#d5e4ff" font-size="15" letter-spacing="4">SOFTWARE ENGINEERING  •  DATA  •  AI  •  SPACE EXPLORATION</text>
+  <text x="800" y="78" fill="#eaf2ff" opacity=".9" font-size="16" letter-spacing="6">EXPLORING BEYOND THE KNOWN</text>
+  <text x="800" y="520" fill="#d4e0f4" opacity=".82" font-size="14" letter-spacing="4">SOFTWARE ENGINEERING  •  DATA  •  AI  •  COSMOS</text>
  </g>
 </g>
 </svg>
