@@ -212,6 +212,23 @@ A collaborative community project focused on multi-agent workspace discovery, re
 - Agentic RAG and LLM application patterns
 - Machine learning evaluation and deployment
 
+## 🌌 Beyond Technology — Space & Astronomy
+
+Technology is one of my interests, but I'm equally curious about the universe beyond our planet. I enjoy learning about space exploration and the mysteries of astronomy.
+
+- 🔭 **Stargazing:** Looking up at the night sky and learning to recognize what is out there.
+- 🪐 **Planets:** Exploring our solar system, planetary science, and worlds beyond it.
+- ✨ **Stars:** Understanding how stars form, evolve, and eventually change.
+- 🌌 **Galaxies:** Discovering how galaxies are structured and how vast the universe really is.
+- 🕳️ **Black Holes:** Curious about gravity, spacetime, and some of the universe's biggest mysteries.
+- 🚀 **Space Exploration:** Following humanity's efforts to explore the Moon, Mars, and deep space.
+
+*The more I learn about the universe, the more questions I have.*
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1400&color=9BB7FF&center=true&vCenter=true&width=700&lines=Curious+about+the+cosmos+%F0%9F%8C%8C;From+the+stars+above+to+the+worlds+beyond+%F0%9F%AA%90;Always+exploring%2C+always+learning+%F0%9F%9A%80" alt="Space curiosity animation"/>
+</div>
+
 ## 🤝 Connect
 
 <div align="center">
