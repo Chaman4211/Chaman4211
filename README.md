@@ -21,7 +21,7 @@ I'm **Chaman Afzaal**, a Software Engineering graduate interested in building pr
 I enjoy working across the data-to-intelligence workflow: collecting and preparing data, building pipelines, experimenting with machine learning, and turning ideas into usable applications.
 
 - 🎓 BS Software Engineering — The Islamia University of Bahawalpur
-- 🤖 Interested in AI/ML engineering and applied machine learning
+- 🤖 Interested in AI/ML engineering and machine learning
 - 📊 Building ETL pipelines, data cleaning workflows, and SQL-based projects
 - 🧠 Exploring LLMs, Agentic RAG, and intelligent applications
 - 🛠️ Learning through hands-on projects, testing, and iteration
@@ -37,7 +37,7 @@ I enjoy working across the data-to-intelligence workflow: collecting and prepari
 | **Enterprise Agentic RAG** | Document processing · RAG foundations | [Open](https://github.com/Chaman4211/enterprise-agentic-rag-system) |
 | **USGS Earthquake Pipeline** | ETL · SQL · Machine Learning | [Open](https://github.com/Chaman4211/usgs-earthquake-data-pipeline) |
 | **RestroMind** | Computer Vision · Table Monitoring | [Open](https://github.com/Chaman4211/RestroMind) |
-| **FlyRank ML** | Applied ML · Ranking Evaluation | [Open](https://github.com/Chaman4211/flyrank-ml-internship) |
+| **FlyRank ML** | Machine Learning · Ranking Evaluation | [Open](https://github.com/Chaman4211/flyrank-ml-internship) |
 | **Quick First Aid** | Mobile App · Firebase · AI Integrations | [Open](https://github.com/Chaman4211/Quick-First-Aid) |
 | **MaternalMind AI** | AI · Wellness Application | [Open](https://github.com/Chaman4211/MaternalMind-AI) |
 
@@ -191,6 +191,16 @@ A collaborative community project focused on multi-agent workspace discovery, re
 
 <div align="center">
   <img width="96%" src="https://github-profile-trophy.vercel.app/?username=Chaman4211&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies"/>
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chaman4211/Chaman4211/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chaman4211/Chaman4211/output/github-contribution-grid-snake.svg"/>
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Chaman4211/Chaman4211/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
 </div>
 
 ## 🧭 Currently Exploring
