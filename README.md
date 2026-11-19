@@ -187,11 +187,20 @@ A collaborative community project focused on multi-agent workspace discovery, re
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chaman4211&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
 </div>
 
-## 🏆 Achievements
+## 🏆 Project Milestones
 
 <div align="center">
-  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=Chaman4211&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies"/>
+
+| 🌍 Milestone | 🚀 Project |
+|---|---|
+| **5,965 processed records** | [Enterprise Agentic RAG](https://github.com/Chaman4211/enterprise-agentic-rag-system) |
+| **10 automated tests passing** at the documented milestone | [Enterprise Agentic RAG](https://github.com/Chaman4211/enterprise-agentic-rag-system) |
+| **23 automated tests passing** | [USGS Earthquake Data Pipeline](https://github.com/Chaman4211/usgs-earthquake-data-pipeline) |
+| **Client-held-out model evaluation** | [FlyRank ML Internship](https://github.com/Chaman4211/flyrank-ml-internship) |
+
 </div>
+
+*I prefer showing real project progress and engineering milestones rather than relying on a third-party trophy image service.*
 
 ## 🐍 Contribution Snake
 
