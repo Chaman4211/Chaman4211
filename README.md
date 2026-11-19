@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Chaman4211/Chaman4211/main/assets/profile-banner.svg" alt="Chaman Afzaal custom AI and data engineering banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/Chaman4211/Chaman4211/main/assets/profile-banner.svg" alt="Chaman Afzaal animated cosmic universe banner" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer+%F0%9F%A4%96;Building+Data+Pipelines+%26+ETL+Systems+%F0%9F%93%8A;Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0;Exploring+Agentic+RAG+%26+LLM+Applications+%E2%9A%A1;Learning+by+Building+Real+Projects+%F0%9F%9A%80" alt="Animated role descriptions" />
   <br/>
   <a href="https://github.com/Chaman4211"><img src="https://img.shields.io/badge/GitHub-Chaman4211-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
@@ -212,21 +212,31 @@ A collaborative community project focused on multi-agent workspace discovery, re
 - Agentic RAG and LLM application patterns
 - Machine learning evaluation and deployment
 
-## 🌌 Beyond Technology — Space & Astronomy
+## 🌌 My Other Universe — Space, Astronomy & Exploration
 
-Technology is one of my interests, but I'm equally curious about the universe beyond our planet. I enjoy learning about space exploration and the mysteries of astronomy.
-
-- 🔭 **Stargazing:** Looking up at the night sky and learning to recognize what is out there.
-- 🪐 **Planets:** Exploring our solar system, planetary science, and worlds beyond it.
-- ✨ **Stars:** Understanding how stars form, evolve, and eventually change.
-- 🌌 **Galaxies:** Discovering how galaxies are structured and how vast the universe really is.
-- 🕳️ **Black Holes:** Curious about gravity, spacetime, and some of the universe's biggest mysteries.
-- 🚀 **Space Exploration:** Following humanity's efforts to explore the Moon, Mars, and deep space.
-
-*The more I learn about the universe, the more questions I have.*
+Beyond technology, I'm fascinated by the cosmos. A clear night sky makes me wonder about the worlds, stars, and mysteries waiting beyond our planet.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1400&color=9BB7FF&center=true&vCenter=true&width=700&lines=Curious+about+the+cosmos+%F0%9F%8C%8C;From+the+stars+above+to+the+worlds+beyond+%F0%9F%AA%90;Always+exploring%2C+always+learning+%F0%9F%9A%80" alt="Space curiosity animation"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Chaman4211/Chaman4211/main/assets/space-universe.svg" alt="Animated universe with stars, planets, galaxies, a black hole and Voyager 1" />
+</div>
+
+### 🔭 What keeps me looking up
+
+- 🌠 **Stargazing:** Exploring the night sky and learning to recognize what is out there.
+- 🪐 **Planets & Solar Systems:** The worlds in our Solar System and planets orbiting distant stars.
+- ✨ **Stars & Nebulae:** How stars are born, evolve, and illuminate the universe.
+- 🌌 **Galaxies & Interstellar Space:** The scale of galaxies and the vast space between stars.
+- 🕳️ **Black Holes:** Extreme gravity, event horizons, spacetime, and cosmic mysteries.
+- 🚀 **Space Exploration:** Deep-space probes, telescopes, the Moon, Mars, and missions beyond Earth.
+
+### 🛰️ Voyager 1 — a message from Earth
+
+One mission I find especially inspiring is **[NASA's Voyager 1](https://science.nasa.gov/mission/voyager/)**. Launched in 1977, it crossed the heliopause in 2012 and became the first spacecraft to enter interstellar space. It continues its journey outward, carrying the Golden Record — a small message from Earth into the cosmos.
+
+*Look up. Stay curious. There is always more to discover.*
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=9BCBFF&center=true&vCenter=true&width=850&lines=From+our+Solar+System+to+the+interstellar+void+%F0%9F%9A%80;Black+holes%2C+galaxies%2C+stars+%26+unknown+worlds+%E2%9C%A8;The+universe+is+too+interesting+to+stop+asking+questions." alt="Animated space curiosity messages" />
 </div>
 
 ## 🤝 Connect
