@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=CHAMAN%20AFZAAL&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%7C%20DATA%20ENGINEERING%20%7C%20INTELLIGENT%20SYSTEMS&descAlignY=58&descSize=15" alt="Chaman Afzaal profile banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/Chaman4211/Chaman4211/main/assets/profile-banner.svg" alt="Chaman Afzaal custom AI and data engineering banner" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer+%F0%9F%A4%96;Building+Data+Pipelines+%26+ETL+Systems+%F0%9F%93%8A;Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0;Exploring+Agentic+RAG+%26+LLM+Applications+%E2%9A%A1;Learning+by+Building+Real+Projects+%F0%9F%9A%80" alt="Animated role descriptions" />
   <br/>
   <a href="https://github.com/Chaman4211"><img src="https://img.shields.io/badge/GitHub-Chaman4211-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
@@ -27,6 +27,21 @@ I enjoy working across the data-to-intelligence workflow: collecting and prepari
 - 🛠️ Learning through hands-on projects, testing, and iteration
 
 **Current direction:** Data Engineering + AI Engineering.
+
+## ⭐ Featured Repositories
+
+<div align="center">
+
+| Project | Focus | Repository |
+|---|---|---|
+| **Enterprise Agentic RAG** | Document processing · RAG foundations | [Open](https://github.com/Chaman4211/enterprise-agentic-rag-system) |
+| **USGS Earthquake Pipeline** | ETL · SQL · Machine Learning | [Open](https://github.com/Chaman4211/usgs-earthquake-data-pipeline) |
+| **RestroMind** | Computer Vision · Table Monitoring | [Open](https://github.com/Chaman4211/RestroMind) |
+| **FlyRank ML** | Applied ML · Ranking Evaluation | [Open](https://github.com/Chaman4211/flyrank-ml-internship) |
+| **Quick First Aid** | Mobile App · Firebase · AI Integrations | [Open](https://github.com/Chaman4211/Quick-First-Aid) |
+| **MaternalMind AI** | AI · Wellness Application | [Open](https://github.com/Chaman4211/MaternalMind-AI) |
+
+</div>
 
 ## 🧰 Tech Stack
 
