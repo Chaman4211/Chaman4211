@@ -28,6 +28,14 @@ I enjoy working across the data-to-intelligence workflow: collecting and prepari
 
 **Current direction:** Data Engineering + AI Engineering.
 
+## 🔄 Live Repository Portfolio
+
+This section is generated automatically from my public GitHub repositories. Repository descriptions, primary languages, stars, and last-updated dates are refreshed by GitHub Actions.
+
+<!-- AUTO-REPOSITORIES:START -->
+_Repository information will be populated by the scheduled GitHub Actions workflow._
+<!-- AUTO-REPOSITORIES:END -->
+
 ## ⭐ Featured Repositories
 
 <div align="center">
