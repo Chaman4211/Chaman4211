@@ -112,18 +112,6 @@ This section is generated automatically from my public GitHub repositories. Repo
 
 ## 🚀 Featured Projects
 
-### 02 · Enterprise Agentic RAG System
-[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/Chaman4211/enterprise-agentic-rag-system)
-
-Building the data foundation for an enterprise-oriented document retrieval and agentic AI system.
-
-- Collected 6,000 arXiv records and processed 5,965 valid records.
-- Built modular text preprocessing and metadata handling.
-- Added dataset validation and automated tests (10 passing at the documented milestone).
-- Planned next stages include semantic chunking, embeddings, ChromaDB, LangGraph, retrieval correction, and FastAPI streaming.
-
-**Stack:** Python · Hugging Face · Pandas · PyArrow · pytest
-
 ### 01 · RestroMind — Restaurant Intelligence Workspace
 [![Repository](https://img.shields.io/badge/VIEW%20PROJECT-00A884?style=for-the-badge&logo=github)](https://github.com/Chaman4211/RestroMind)
 
@@ -139,6 +127,18 @@ An actively developed restaurant operations platform that brings table monitorin
 **Stack:** Python 3.11 · FastAPI · React 19 · TypeScript · PostgreSQL · YOLO · ByteTrack · OpenCV · Docker · Pytest
 
 <sub>Project status: actively developed. Computer-vision accuracy and camera workflows still require validation in real restaurant environments; payment status is not automatically verified by a payment gateway.</sub>
+
+### 02 · Enterprise Agentic RAG System
+[![Repository](https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/Chaman4211/enterprise-agentic-rag-system)
+
+Building the data foundation for an enterprise-oriented document retrieval and agentic AI system.
+
+- Collected 6,000 arXiv records and processed 5,965 valid records.
+- Built modular text preprocessing and metadata handling.
+- Added dataset validation and automated tests (10 passing at the documented milestone).
+- Planned next stages include semantic chunking, embeddings, ChromaDB, LangGraph, retrieval correction, and FastAPI streaming.
+
+**Stack:** Python · Hugging Face · Pandas · PyArrow · pytest
 
 ### 03 · USGS Earthquake Data Pipeline
 [![Repository](https://img.shields.io/badge/VIEW%20PROJECT-3776AB?style=for-the-badge&logo=github)](https://github.com/Chaman4211/usgs-earthquake-data-pipeline)
