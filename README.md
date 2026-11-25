@@ -52,12 +52,14 @@ This section is generated automatically from my public GitHub repositories. Repo
 
 | Project | Focus | Repository |
 |---|---|---|
-| **Enterprise Agentic RAG** | Document processing · RAG foundations | [Open](https://github.com/Chaman4211/enterprise-agentic-rag-system) |
-| **USGS Earthquake Pipeline** | ETL · SQL · Machine Learning | [Open](https://github.com/Chaman4211/usgs-earthquake-data-pipeline) |
-| **RestroMind** | Computer Vision · Table Monitoring | [Open](https://github.com/Chaman4211/RestroMind) |
-| **FlyRank ML** | Machine Learning · Ranking Evaluation | [Open](https://github.com/Chaman4211/flyrank-ml-internship) |
-| **Quick First Aid** | Mobile App · Firebase · AI Integrations | [Open](https://github.com/Chaman4211/Quick-First-Aid) |
-| **MaternalMind AI** | AI · Wellness Application | [Open](https://github.com/Chaman4211/MaternalMind-AI) |
+| **RestroMind** | Restaurant operations · Computer Vision · Ordering · Analytics | [Open](https://github.com/Chaman4211/RestroMind) |
+| **Enterprise Agentic RAG** | Document ingestion · Data processing · Agentic retrieval roadmap | [Open](https://github.com/Chaman4211/enterprise-agentic-rag-system) |
+| **USGS Earthquake Pipeline** | Live data extraction · ETL · SQLite · Machine Learning | [Open](https://github.com/Chaman4211/usgs-earthquake-data-pipeline) |
+| **FlyRank ML Internship** | Search data analysis · Feature engineering · Model evaluation | [Open](https://github.com/Chaman4211/flyrank-ml-internship) |
+| **Quick First Aid** | React Native · Firebase · Emergency assistance concept | [Open](https://github.com/Chaman4211/Quick-First-Aid) |
+| **MaternalMind AI** | Pregnancy wellness · Emotion analysis experiments | [Open](https://github.com/Chaman4211/MaternalMind-AI) |
+| **WorkSphere** | Open-source contribution · Multi-agent workspace discovery | [Open](https://github.com/Chaman4211/WorkSphere) |
+| **LLM Chat Application** | Flutter · Flask · GPT-2 integration | [Open](https://github.com/Chaman4211/LLM-Chat-App) |
 
 </div>
 
@@ -110,7 +112,7 @@ This section is generated automatically from my public GitHub repositories. Repo
 
 ## 🚀 Featured Projects
 
-### 01 · Enterprise Agentic RAG System
+### 02 · Enterprise Agentic RAG System
 [![Repository](https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/Chaman4211/enterprise-agentic-rag-system)
 
 Building the data foundation for an enterprise-oriented document retrieval and agentic AI system.
@@ -122,17 +124,21 @@ Building the data foundation for an enterprise-oriented document retrieval and a
 
 **Stack:** Python · Hugging Face · Pandas · PyArrow · pytest
 
-### 02 · RestroMind — Restaurant Intelligence
+### 01 · RestroMind — Restaurant Intelligence Workspace
 [![Repository](https://img.shields.io/badge/VIEW%20PROJECT-00A884?style=for-the-badge&logo=github)](https://github.com/Chaman4211/RestroMind)
 
-A computer-vision prototype for restaurant table monitoring and cleaning-task workflows.
+An actively developed restaurant operations platform that brings table monitoring, customer ordering, staff workflows and business insights into one web application.
 
-- Person detection and tracking.
-- Configurable table zones and occupancy status.
-- Cleaning alerts and staff confirmation workflow.
-- Web dashboard for monitoring.
+- **Table and camera monitoring:** configurable table zones, camera/video processing, person detection and tracking, and estimated occupancy states.
+- **Cleaning operations:** cleaning-required alerts, staff task acknowledgement and cleaning confirmation.
+- **Digital ordering:** QR-based menus, item customization, shared-table ordering and customer order tracking.
+- **Restaurant operations:** waiter/help requests, table management, payment-status tracking and staff workflows.
+- **Business analytics:** revenue and outstanding-balance views, sales trends, payment breakdowns, and PDF/CSV report exports.
+- **Customer experience:** rewards, invitation-based mini-games and restaurant Wi-Fi information.
 
-**Stack:** Python · YOLO · ByteTrack · FastAPI · React · PostgreSQL · Docker
+**Stack:** Python 3.11 · FastAPI · React 19 · TypeScript · PostgreSQL · YOLO · ByteTrack · OpenCV · Docker · Pytest
+
+<sub>Project status: actively developed. Computer-vision accuracy and camera workflows still require validation in real restaurant environments; payment status is not automatically verified by a payment gateway.</sub>
 
 ### 03 · USGS Earthquake Data Pipeline
 [![Repository](https://img.shields.io/badge/VIEW%20PROJECT-3776AB?style=for-the-badge&logo=github)](https://github.com/Chaman4211/usgs-earthquake-data-pipeline)
@@ -189,10 +195,12 @@ A Flutter chat application connected to a GPT-2 model through a Flask REST API.
 
 **Stack:** Flutter · Dart · Python · Flask · GPT-2 · Hugging Face
 
-### 08 · WorkSphere
-[![Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-0A84FF?style=for-the-badge&logo=github)](https://github.com/Chaman4211/WorkSphere)
+### 08 · WorkSphere — Multi-Agent Workspace Discovery
+[![Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-0A84FF?style=for-the-badge&logo=github)](https://github.com/Chaman4211/WorkSphere) [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Visit-238636?style=for-the-badge&logo=vercel)](https://work-sphere-one.vercel.app/)
 
-A collaborative community project focused on multi-agent workspace discovery, recommendations, and booking.
+An open-source community project for discovering and booking work-friendly spaces such as cafés, coworking spaces and libraries. The platform describes a multi-agent approach to ranking spaces using factors such as Wi-Fi, seating, power outlets and noise.
+
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · Prisma · PostgreSQL · PartyKit
 
 ## 📊 GitHub Analytics
 
