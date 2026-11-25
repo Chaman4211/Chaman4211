@@ -36,14 +36,14 @@ This section is generated automatically from my public GitHub repositories. Repo
 | Repository | Description | Language | ⭐ Stars | Last updated |
 |---|---|---:|---:|---|
 | [**RestroMind**](https://github.com/Chaman4211/RestroMind) | RestroMind is an AI-powered restaurant management platform that combines table monitoring, customer orderin... | Python | 0 | 24 Nov 2026 |
-| [**enterprise-agentic-rag-system**](https://github.com/Chaman4211/enterprise-agentic-rag-system) | Enterprise Agentic RAG System using LangGraph, ChromaDB and FastAPI | Python | 0 | 19 Nov 2026 |
+| [**enterprise-agentic-rag-system**](https://github.com/Chaman4211/enterprise-agentic-rag-system) | Enterprise Agentic RAG System using LangGraph, ChromaDB and FastAPI | Python | 0 | 25 Nov 2026 |
 | [**flyrank-ml-internship**](https://github.com/Chaman4211/flyrank-ml-internship) | Starter repo for the FlyRank ML Internship - a runnable ML pipeline on real anonymized Google Search data,... | Jupyter Notebook | 0 | 29 Oct 2026 |
 | [**usgs-earthquake-data-pipeline**](https://github.com/Chaman4211/usgs-earthquake-data-pipeline) | Earthquake data preprocessing pipeline using live USGS data, cleaning, feature engineering, and scikit-lear... | Jupyter Notebook | 0 | 22 Oct 2026 |
 | [**MaternalMind-AI**](https://github.com/Chaman4211/MaternalMind-AI) | Developed an AI-driven pregnancy wellness platform that enables mothers to track fetal development, monitor... | Jupyter Notebook | 1 | 15 Oct 2026 |
 | [**Quick-First-Aid**](https://github.com/Chaman4211/Quick-First-Aid) | Quick First Aid - AI emergency medical assistant. Instant SOS, location sharing, AI symptom checker, pill s... | TypeScript | 1 | 01 Mar 2026 |
 | [**LLM-Chat-App**](https://github.com/Chaman4211/LLM-Chat-App) | LLM Chat Application with Flutter & Flask | Dart | 1 | 21 May 2025 |
 
-<sub>Automatically refreshed: 25 Nov 2026, 11:10 UTC · Showing 7 public, non-fork, non-archived repositories.</sub>
+<sub>Automatically refreshed: 25 Nov 2026, 21:43 UTC · Showing 7 public, non-fork, non-archived repositories.</sub>
 <!-- AUTO-REPOSITORIES:END -->
 
 ## ⭐ Featured Repositories
