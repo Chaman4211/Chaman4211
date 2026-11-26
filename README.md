@@ -35,6 +35,7 @@ This section is generated automatically from my public GitHub repositories. Repo
 <!-- AUTO-REPOSITORIES:START -->
 | Repository | Description | Language | ⭐ Stars | Last updated |
 |---|---|---:|---:|---|
+| [**self-attention-from-scratch**](https://github.com/Chaman4211/self-attention-from-scratch) | Self-Attention and Causal Multi-Head Attention implemented using Python and NumPy | Jupyter Notebook | 0 | 26 Nov 2026 |
 | [**RestroMind**](https://github.com/Chaman4211/RestroMind) | RestroMind is an AI-powered restaurant management platform that combines table monitoring, customer orderin... | Python | 0 | 24 Nov 2026 |
 | [**enterprise-agentic-rag-system**](https://github.com/Chaman4211/enterprise-agentic-rag-system) | Enterprise Agentic RAG System using LangGraph, ChromaDB and FastAPI | Python | 0 | 25 Nov 2026 |
 | [**flyrank-ml-internship**](https://github.com/Chaman4211/flyrank-ml-internship) | Starter repo for the FlyRank ML Internship - a runnable ML pipeline on real anonymized Google Search data,... | Jupyter Notebook | 0 | 29 Oct 2026 |
@@ -43,7 +44,7 @@ This section is generated automatically from my public GitHub repositories. Repo
 | [**Quick-First-Aid**](https://github.com/Chaman4211/Quick-First-Aid) | Quick First Aid - AI emergency medical assistant. Instant SOS, location sharing, AI symptom checker, pill s... | TypeScript | 1 | 01 Mar 2026 |
 | [**LLM-Chat-App**](https://github.com/Chaman4211/LLM-Chat-App) | LLM Chat Application with Flutter & Flask | Dart | 1 | 21 May 2025 |
 
-<sub>Automatically refreshed: 25 Nov 2026, 21:43 UTC · Showing 7 public, non-fork, non-archived repositories.</sub>
+<sub>Automatically refreshed: 26 Nov 2026, 08:19 UTC · Showing 8 public, non-fork, non-archived repositories.</sub>
 <!-- AUTO-REPOSITORIES:END -->
 
 ## ⭐ Featured Repositories
